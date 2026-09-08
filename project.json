@@ -1,0 +1,28 @@
+{
+  "id": "urdp",
+  "name": "URDP",
+  "subtitle": "Universal Robotics Development Platform",
+  "category": "Robotics & hardware",
+  "status": "Concept & architecture",
+  "icon": "urdp",
+  "summary": "One connected robot model for mechanical design, electronics, software, simulation, deployment, and runtime monitoring.",
+  "overview": "URDP is a proposed engineering platform built around a shared model of the complete robot. It aims to connect existing tools and track the relationships between parts, wiring, firmware, AI models, simulation, and documentation.",
+  "current_state": "The supplied work defines the platform architecture and proposed first-version scope. It does not establish a completed application or working integrations.",
+  "highlights": [
+    "URDP Studio: a desktop workspace for the robot engineering lifecycle.",
+    "The .urdp project format: a portable package for the robot model and related engineering information.",
+    "URTP Runtime: a proposed onboard runtime for deployment, telemetry, diagnostics, and replay."
+  ],
+  "next_focus": "Define a minimal robot knowledge model, component relationships, and a small end-to-end project workflow before expanding integrations.",
+  "tags": [
+    "Robot knowledge model",
+    ".urdp",
+    "URTP Runtime"
+  ],
+  "repository_slug": "urdp",
+  "repository_url": "https://github.com/Rohansashankreddy07/urdp",
+  "sources": [
+    "description_me.docx",
+    "2b9c6fb8-b872-4ba2-bc95-2ed0602c1019.docx"
+  ]
+}
